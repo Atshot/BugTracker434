@@ -1,0 +1,6 @@
+Reparado:
+Daño de npcs de nievel 83, 84, 85 (falta reajustar)
+Coléra sagrada (Formula de daño corregida, ya no afecta el stun a humanoides)
+Nueva formula de daño (Experimental)
+Por hacer:
+Restricción a abalorios iguales.
