@@ -3,5 +3,5 @@ Daño de npcs de nivel 83, 84, 85 (falta reajustar)
 Coléra sagrada (Formula de daño corregida, ya no afecta el stun a humanoides)
 Nueva formula de daño (Experimental)
 Nuevo sistema de daño pvp, pve
+Reparar el sistema de hp de los npcs (Experimental)
 Por hacer:
-Reparar el sistema de hp de los npcs.
